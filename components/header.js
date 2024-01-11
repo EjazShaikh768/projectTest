@@ -55,7 +55,7 @@ const header = () => {
                             Latitude: {location.latitude}, Longitude: {location.longitude}
                         </Text>
                     )}
-                    {address && <Text >Address: {address}</Text>}
+                    {/* {address && <Text >Address: {address}</Text>} */}
 
                 </View>
                 <View style={{ width: '20%', alignItems: "flex-end" }}>
